@@ -51,7 +51,7 @@ sudo apt-get install flex bison
 ```
 ### 2. Clone the repository:
 ```
-git clone https://github.com/<your-username>/mini-sql-interpreter.git
+git clone https://github.com/Slightsmile/Mini-Sql-Interpreter.git
 cd mini-sql-interpreter
 ```
 
